@@ -1,0 +1,19 @@
+# Core Libraries for ADE Classification Project
+transformers==4.53.1
+datasets==4.0.0
+accelerate==1.8.1
+evaluate==0.4.5
+huggingface_hub==0.33.2
+sentencepiece==0.2.0
+
+# Data Handling & Traditional ML Baseline
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Other necessary utilities
+torch==2.6.0+cu124
+numpy==2.0.2
+regex==2024.11.6
+tqdm==4.67.1
