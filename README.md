@@ -2,7 +2,7 @@
 
 # Adverse Drug Event (ADE) Classification: AI for Drug Safety
 
-An NLP project leveraging **Transformer models (BERT and BioBert with Weighted Loss)** to automatically classify sentences describing **Adverse Drug Events (ADEs)** in healthcare text. This showcases a full ML workflow, from data analysis to advanced model evaluation, providing a robust solution for enhancing drug safety monitoring.
+An NLP project using **Transformer models (BERT and BioBert with Weighted Loss)** to automatically classify sentences describing **Adverse Drug Events (ADEs)** in healthcare text. This showcases a full ML workflow, from data analysis to advanced model evaluation, providing a robust solution for enhancing drug safety monitoring.
 
 ---
 
@@ -33,7 +33,7 @@ An NLP project leveraging **Transformer models (BERT and BioBert with Weighted L
 
 ## Next Steps
 
-This project successfully demonstrates the technical capabilities of building a high-performing NLP model for a critical healthcare task. While the core implementation is complete, the journey from development to real-world impact involves further considerations around deployment strategies, continuous monitoring, and the broader implications of AI in sensitive domains. These aspects are crucial for moving from a successful proof-of-concept to a production-ready solution.
+This project shows the technical capabilities of building a high-performing NLP model for a critical healthcare task. While the core implementation is complete, the journey from development to real-world impact involves further considerations around deployment strategies, continuous monitoring, and the broader implications of AI in sensitive domains. These aspects are crucial for moving from a successful proof-of-concept to a production-ready solution.
 
 ---
 
